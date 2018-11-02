@@ -1,0 +1,17 @@
+h2 {
+	font-color: blue;
+	text-align: center;
+}
+
+.form {
+	text-align: center;
+}
+
+.submitbutton {
+	text-align: center;
+}
+
+#result {
+	position: fixed;
+	left:1000px;
+}
